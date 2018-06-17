@@ -1,0 +1,15 @@
+<component name="ArtifactManager">
+  <artifact name="ditto:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/ditto_jar</output-path>
+    <root id="root">
+      <element id="archive" name="ditto.jar">
+        <element id="module-output" name="ditto" />
+        <element id="module-test-output" name="ditto" />
+      </element>
+      <element id="library" level="project" name="commons-collections-3.2" />
+      <element id="library" level="project" name="javassist" />
+      <element id="library" level="project" name="trove" />
+      <element id="dir-copy" path="$PROJECT_DIR$/src/test" />
+    </root>
+  </artifact>
+</component>
