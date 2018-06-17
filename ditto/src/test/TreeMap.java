@@ -37,6 +37,8 @@ this exception to your version of the library, but you are not
 obligated to do so.  If you do not wish to do so, delete this
 exception statement from your version. */
 
+import runtime.Dispatch;
+
 import java.util.*;
 
 import java.io.Serializable;
@@ -320,7 +322,7 @@ private static final class Node extends BasicMapEntry
 }
 
 Boolean isRedBlack(Node n) {
-	runtime.Dispatch.invCount++;
+	Dispatch.invCount++;
 	if (n == null || n == nil)
 		return true;
 	int c = n.color;
@@ -342,7 +344,7 @@ Boolean isRedBlack(Node n) {
 }
 
 Integer checkBlackDepth(Node n) {
-	runtime.Dispatch.invCount++;
+	Dispatch.invCount++;
 	if (n == null || n == nil)
 		return 1;
 	int l = checkBlackDepth(n.left);
@@ -354,7 +356,7 @@ Integer checkBlackDepth(Node n) {
 }
 
 Boolean isOrdered(Node e, int lower, int upper) {
-	runtime.Dispatch.invCount++;
+	Dispatch.invCount++;
 	if (e == null || e == nil)
 		return true;
 	Node l = e.left, r = e.right;

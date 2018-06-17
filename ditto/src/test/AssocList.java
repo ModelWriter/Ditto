@@ -24,18 +24,20 @@ SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 package test;
 
+import runtime.Dispatch;
+
 public class AssocList {
 	ListElem head;
 	boolean doInvariants = true;
 	int size;
 	Boolean isEven(ListElem e) {
-		runtime.Dispatch.invCount++;
+		Dispatch.invCount++;
 		if (e == null) return true;
 		else return ! isEven(e.next);
 	}
 	
 	Boolean noNullKeys(ListElem e) {
-		runtime.Dispatch.invCount++;
+		Dispatch.invCount++;
 		if (e == null)
 			return true;
 		if (e.value == null)
@@ -47,12 +49,12 @@ public class AssocList {
 		if (doInvariants) {
 			if (! isEven(head)) {
 				System.out.println("List has odd number of elements!");
-				System.out.println("Invariant count is " + runtime.Dispatch.invCount);
+				System.out.println("Invariant count is " + Dispatch.invCount);
 				System.exit(1);			
 			}
 			if (! noNullKeys(head)) {
 				System.out.println("List has null key!");
-				System.out.println("Invariant count is " + runtime.Dispatch.invCount);
+				System.out.println("Invariant count is " + Dispatch.invCount);
 				System.exit(1);			
 			}
 

@@ -36,6 +36,6 @@ import java.util.ArrayList;
  *
  */
 public class IncObject {
-	int used;
+	public int used;
 	ArrayList[] lists = new ArrayList[4];
 }

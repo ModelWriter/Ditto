@@ -27,6 +27,8 @@ SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
  */
 package test;
 
+import runtime.Dispatch;
+
 /**
  * @author aj
  *
@@ -37,7 +39,7 @@ public class OrderedIntList {
 	int realsum;
 	OrderedIntList() { head = null; }
 	Boolean isOrdered(IntListElem n) {
-		runtime.Dispatch.invCount++;
+		Dispatch.invCount++;
 		
 		if (n == null || n.next == null)
 			return true;
@@ -47,7 +49,7 @@ public class OrderedIntList {
 	}
 	
 	Integer sum(IntListElem n) {
-		runtime.Dispatch.invCount++;
+		Dispatch.invCount++;
 		if (n == null)
 			return 0;
 		return n.value + sum(n.next);
@@ -65,7 +67,7 @@ public class OrderedIntList {
 		if (doInvariants) { 
 		if (! isOrdered(head)) {
 			System.out.println("List is not ordered!");
-			System.out.println("Invariant count is " + runtime.Dispatch.invCount);
+			System.out.println("Invariant count is " + Dispatch.invCount);
 			System.exit(1);
 		} 
 //			int s = sum(head);

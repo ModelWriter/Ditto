@@ -24,6 +24,8 @@ SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 package test;
 
+import runtime.Dispatch;
+
 public class IntHashSet {
 	ObjListElem[] buckets;
 	
@@ -43,7 +45,7 @@ public class IntHashSet {
 	}
 	
 	Boolean codesMatchBuckets(int i, int len) {
-		runtime.Dispatch.invCount++;
+		Dispatch.invCount++;
 		if (i >= buckets.length)
 			return true;
 		boolean b1 = codesMatchElements((IntListElem)buckets[i].value, i, len),
@@ -52,7 +54,7 @@ public class IntHashSet {
 	}
 	
 	Boolean codesMatchElements(IntListElem e, int i, int len) {
-		runtime.Dispatch.invCount++;
+		Dispatch.invCount++;
 		if (e == null) 
 				return true;
 		return (e.value % len == i) && 
@@ -64,7 +66,7 @@ public class IntHashSet {
 		if (doInvariants) { 
 			if (! codesMatchBuckets(0, buckets.length)) {
 				System.out.println("Hash element in wrong bucket!");
-				System.out.println("Invariant count is " + runtime.Dispatch.invCount);
+				System.out.println("Invariant count is " + Dispatch.invCount);
 				System.exit(1);
 			}
 		}

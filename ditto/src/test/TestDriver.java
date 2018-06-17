@@ -28,6 +28,8 @@ SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
  */
 package test;
 
+import runtime.Dispatch;
+
 import java.util.Random;
 /**
  * @author aj
@@ -79,7 +81,7 @@ public class TestDriver {
 		long end = System.currentTimeMillis();
 		System.out.println("Total time: " + (end - start));
 		
-		System.out.println("InvCount is " + runtime.Dispatch.invCount);
+		System.out.println("InvCount is " + Dispatch.invCount);
 		
 		System.out.println("Done with all operations.");
 	}
@@ -98,7 +100,7 @@ public class TestDriver {
 			can_remove[i] = true;
 			t.invariants();
 		}
-		System.out.println("InvCount before test is " + runtime.Dispatch.invCount);
+		System.out.println("InvCount before test is " + Dispatch.invCount);
 		int adds = 0;
 		long start = System.currentTimeMillis();
 		for (int j = 0 ; j < reps ; j++) {

@@ -27,6 +27,8 @@ SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
  */
 package test;
 
+import runtime.Dispatch;
+
 /**
  * @author aj
  *
@@ -37,7 +39,7 @@ public class OrderedIntTree {
 	int maxSum;
 	
 	Boolean isOrderedLocal(IntTreeElem e) {
-		runtime.Dispatch.invCount++;
+		Dispatch.invCount++;
 		if (e == null)
 			return Boolean.TRUE;
 		if (e.left != null && e.value <= e.left.value)
@@ -48,7 +50,7 @@ public class OrderedIntTree {
 	}
 	
 	Boolean isOrdered(IntTreeElem e, int lower, int upper) {
-		runtime.Dispatch.invCount++;
+		Dispatch.invCount++;
 		if (e == null)
 			return true;
 		IntTreeElem l = e.left, r = e.right;
@@ -64,7 +66,7 @@ public class OrderedIntTree {
 	}
 
 	Integer sumNodes(IntTreeElem e) {
-		runtime.Dispatch.invCount++;
+		Dispatch.invCount++;
 		if (e == null)
 			return 0;
 		//System.out.println("left is " + e.left + " and right is " + e.right);
@@ -93,7 +95,7 @@ public class OrderedIntTree {
 				good = false;
 			}
 			if (! good) {
-				System.out.println("Invariant count is " + runtime.Dispatch.invCount);
+				System.out.println("Invariant count is " + Dispatch.invCount);
 				System.exit(1);
 			}
 		} 

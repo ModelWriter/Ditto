@@ -45,8 +45,8 @@ public class ComputationNode {
 
 	public Object result;
 	public Object[] arguments;
-	ComputationNode[] parents;
-	ComputationNode[] children;
+	public ComputationNode[] parents;
+	public ComputationNode[] children;
 	FunctionData data;
 	int parents_last;
 	int num_parents, depth = Integer.MAX_VALUE;

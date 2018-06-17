@@ -61,7 +61,6 @@ public class Transform {
 		}
 	}
 
-
 	static void usage() {
 		System.out.println("Usage: Transform [inv_list] [class_list] [--verbose]\n" +
 				"where 'inv_list'   containts a list of invariant functions, e.g. Foo.Bar\n" +

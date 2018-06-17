@@ -7,92 +7,120 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9ee86e53-1010-47bc-b4e1-f2f2fecf870b" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/commons-collections-3.2.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/javassist.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/trove.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ditto_jar/commons-collections-3.2.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ditto_jar/ditto.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ditto_jar/javassist.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ditto_jar/trove.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/ditto/incrementalizer/Transform$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/ditto/incrementalizer/Transform$2.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/ditto/incrementalizer/Transform$3.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/ditto/incrementalizer/Transform$4.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/ditto/incrementalizer/Transform$5.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/ditto/incrementalizer/Transform$InvariantInfo.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/ditto/incrementalizer/Transform.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/ditto/runtime/ComputationNode.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/ditto/runtime/Dispatch.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/ditto/runtime/FunctionData.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/ditto/runtime/IncObject.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/ditto/runtime/InvariantData.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/ditto/runtime/ObjArrayStrategy.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/ditto/runtime/ObjStrategy.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/ditto/test/AssocList.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/ditto/test/IntHashSet.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/ditto/test/IntListElem.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/ditto/test/IntTreeElem.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/ditto/test/ListElem.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/ditto/test/ObjListElem.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/ditto/test/OrderedIntList.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/ditto/test/OrderedIntTree.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/ditto/test/TestDriver.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/ditto/test/TreeMap$BasicMapEntry.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/ditto/test/TreeMap$Node.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/ditto/test/TreeMap$SubMap.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/ditto/test/TreeMap$TreeIterator.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/ditto/test/TreeMap.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/artifacts/ditto_jar.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/description.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/commons_collections_3_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/javassist.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/trove.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/project-template.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestDriver_classes.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestDriver_invariants.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ditto.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ditto_jar/TestDriver_classes.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ditto_jar/TestDriver_invariants.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ditto_jar/test/AssocList.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ditto_jar/test/IntHashSet.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ditto_jar/test/IntListElem.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ditto_jar/test/IntTreeElem.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ditto_jar/test/ListElem.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ditto_jar/test/ObjListElem.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ditto_jar/test/OrderedIntList.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ditto_jar/test/OrderedIntTree.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ditto_jar/test/TestDriver.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ditto_jar/test/TreeMap.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/ditto/META-INF/MANIFEST.MF" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/ditto/runtime/META-INF/MANIFEST.MF" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/ditto/test/TestDriver_classes.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/ditto/test/TestDriver_invariants.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/META-INF/MANIFEST.MF" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/incrementalizer/Transform.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/runtime/ArrayHashedMap.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/runtime/ComputationNode.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/runtime/Dispatch.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/runtime/FunctionData.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/runtime/IncObject.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/runtime/InvariantData.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/runtime/META-INF/MANIFEST.MF" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/AssocList.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/IntHashSet.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/IntListElem.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/IntTreeElem.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/ListElem.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/ObjListElem.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/OrderedIntList.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/OrderedIntTree.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/TestDriver.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/TestDriver_classes.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/TestDriver_invariants.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/TreeMap.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ditto/runtime/ComputationNode.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ditto/test/AssocList.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ditto/test/AssocList_isEvenData.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ditto/test/AssocList_noNullKeysData.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ditto/test/IntHashSet.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ditto/test/IntHashSet_codesMatchBucketsData.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ditto/test/IntHashSet_codesMatchElementsData.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ditto/test/IntListElem.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ditto/test/IntTreeElem.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ditto/test/ListElem.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ditto/test/ObjListElem.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ditto/test/OrderedIntList.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ditto/test/OrderedIntList_isOrderedData.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ditto/test/OrderedIntTree.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ditto/test/OrderedIntTree_isOrderedData.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ditto/test/OrderedIntTree_sumNodesData.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ditto/test/TreeMap$BasicMapEntry.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ditto/test/TreeMap.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ditto/test/TreeMap_checkBlackDepthData.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ditto/test/TreeMap_isOrderedData.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ditto/test/TreeMap_isRedBlackData.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/run/commons-collections-3.2.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/run/incrementalizer/Transform$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/run/incrementalizer/Transform$2.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/run/incrementalizer/Transform$3.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/run/incrementalizer/Transform$4.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/run/incrementalizer/Transform$5.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/run/incrementalizer/Transform$InvariantInfo.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/run/incrementalizer/Transform.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/run/javassist.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/run/runtime/ComputationNode.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/run/runtime/Dispatch.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/run/runtime/FunctionData.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/run/runtime/IncObject.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/run/runtime/InvariantData.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/run/runtime/ObjArrayStrategy.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/run/runtime/ObjStrategy.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/run/test/AssocList.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/run/test/AssocList_isEvenData.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/run/test/AssocList_noNullKeysData.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/run/test/IntHashSet.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/run/test/IntHashSet_codesMatchBucketsData.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/run/test/IntHashSet_codesMatchElementsData.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/run/test/IntListElem.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/run/test/IntTreeElem.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/run/test/ListElem.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/run/test/ObjListElem.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/run/test/OrderedIntList.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/run/test/OrderedIntList_isOrderedData.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/run/test/OrderedIntTree.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/run/test/OrderedIntTree_isOrderedData.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/run/test/OrderedIntTree_sumNodesData.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/run/test/TestDriver.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/run/test/TreeMap$BasicMapEntry.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/run/test/TreeMap$Node.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/run/test/TreeMap$SubMap.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/run/test/TreeMap$TreeIterator.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/run/test/TreeMap.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/run/test/TreeMap_checkBlackDepthData.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/run/test/TreeMap_isOrderedData.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/run/test/TreeMap_isRedBlackData.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/run/trove.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/run/run.sh" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/run/runtime/META-INF/MANIFEST.MF" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/run/test/TestDriver_classes.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/run/test/TestDriver_invariants.txt" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/ditto_jar/TestDriver_classes.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/ditto_jar/TestDriver_invariants.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/ditto_jar/commons-collections-3.2.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/ditto_jar/ditto.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/ditto_jar/javassist.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/ditto_jar/test/AssocList.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/ditto_jar/test/IntHashSet.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/ditto_jar/test/IntListElem.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/ditto_jar/test/IntTreeElem.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/ditto_jar/test/ListElem.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/ditto_jar/test/ObjListElem.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/ditto_jar/test/OrderedIntList.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/ditto_jar/test/OrderedIntTree.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/ditto_jar/test/TestDriver.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/ditto_jar/test/TreeMap.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/ditto_jar/trove.jar" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/ditto/incrementalizer/Transform$1.class" afterPath="$PROJECT_DIR$/out/production/ditto/incrementalizer/Transform$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/ditto/incrementalizer/Transform$2.class" afterPath="$PROJECT_DIR$/out/production/ditto/incrementalizer/Transform$2.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/ditto/incrementalizer/Transform$3.class" afterPath="$PROJECT_DIR$/out/production/ditto/incrementalizer/Transform$3.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/ditto/incrementalizer/Transform$4.class" afterPath="$PROJECT_DIR$/out/production/ditto/incrementalizer/Transform$4.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/ditto/incrementalizer/Transform$5.class" afterPath="$PROJECT_DIR$/out/production/ditto/incrementalizer/Transform$5.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/ditto/incrementalizer/Transform.class" afterPath="$PROJECT_DIR$/out/production/ditto/incrementalizer/Transform.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/ditto/runtime/ComputationNode.class" afterPath="$PROJECT_DIR$/out/production/ditto/runtime/ComputationNode.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/ditto/runtime/IncObject.class" afterPath="$PROJECT_DIR$/out/production/ditto/runtime/IncObject.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/ditto/test/AssocList.class" afterPath="$PROJECT_DIR$/out/production/ditto/test/AssocList.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/ditto/test/IntHashSet.class" afterPath="$PROJECT_DIR$/out/production/ditto/test/IntHashSet.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/ditto/test/IntListElem.class" afterPath="$PROJECT_DIR$/out/production/ditto/test/IntListElem.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/ditto/test/IntTreeElem.class" afterPath="$PROJECT_DIR$/out/production/ditto/test/IntTreeElem.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/ditto/test/ListElem.class" afterPath="$PROJECT_DIR$/out/production/ditto/test/ListElem.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/ditto/test/ObjListElem.class" afterPath="$PROJECT_DIR$/out/production/ditto/test/ObjListElem.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/ditto/test/OrderedIntList.class" afterPath="$PROJECT_DIR$/out/production/ditto/test/OrderedIntList.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/ditto/test/OrderedIntTree.class" afterPath="$PROJECT_DIR$/out/production/ditto/test/OrderedIntTree.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/ditto/test/TestDriver.class" afterPath="$PROJECT_DIR$/out/production/ditto/test/TestDriver.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/ditto/test/TreeMap$BasicMapEntry.class" afterPath="$PROJECT_DIR$/out/production/ditto/test/TreeMap$BasicMapEntry.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/ditto/test/TreeMap$Node.class" afterPath="$PROJECT_DIR$/out/production/ditto/test/TreeMap$Node.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/ditto/test/TreeMap$SubMap.class" afterPath="$PROJECT_DIR$/out/production/ditto/test/TreeMap$SubMap.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/ditto/test/TreeMap$TreeIterator.class" afterPath="$PROJECT_DIR$/out/production/ditto/test/TreeMap$TreeIterator.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/ditto/test/TreeMap.class" afterPath="$PROJECT_DIR$/out/production/ditto/test/TreeMap.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/incrementalizer/Transform.java" afterPath="$PROJECT_DIR$/src/incrementalizer/Transform.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/runtime/ComputationNode.java" afterPath="$PROJECT_DIR$/src/runtime/ComputationNode.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/runtime/IncObject.java" afterPath="$PROJECT_DIR$/src/runtime/IncObject.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/AssocList.java" afterPath="$PROJECT_DIR$/src/test/AssocList.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/IntHashSet.java" afterPath="$PROJECT_DIR$/src/test/IntHashSet.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/OrderedIntList.java" afterPath="$PROJECT_DIR$/src/test/OrderedIntList.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/OrderedIntTree.java" afterPath="$PROJECT_DIR$/src/test/OrderedIntTree.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/TestDriver.java" afterPath="$PROJECT_DIR$/src/test/TestDriver.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/TreeMap.java" afterPath="$PROJECT_DIR$/src/test/TreeMap.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -103,31 +131,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="ListElem.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/ListElem.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="29" column="0" lean-forward="false" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Transform.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/incrementalizer/Transform.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="3281">
-              <caret line="226" column="44" lean-forward="false" selection-start-line="226" selection-start-column="44" selection-end-line="226" selection-end-column="44" />
-              <folding>
-                <element signature="e#13053#13950#0" expanded="true" />
-                <element signature="e#13949#13950#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
@@ -141,9 +145,12 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/com/company/Main.java" />
-        <option value="$PROJECT_DIR$/src/incrementalizer/Transform.java" />
         <option value="$PROJECT_DIR$/tests/TestDriver_invariants.txt" />
         <option value="$PROJECT_DIR$/src/META-INF/MANIFEST.MF" />
+        <option value="$PROJECT_DIR$/src/InvariantData.java" />
+        <option value="$PROJECT_DIR$/src/incrementalizer/Transform.java" />
+        <option value="$PROJECT_DIR$/src/runtime/ComputationNode.java" />
+        <option value="$PROJECT_DIR$/src/runtime/IncObject.java" />
       </list>
     </option>
   </component>
@@ -179,37 +186,31 @@
             <path>
               <item name="ditto" type="b2602c69:ProjectViewProjectNode" />
               <item name="ditto" type="462c0819:PsiDirectoryNode" />
-              <item name="lib" type="462c0819:PsiDirectoryNode" />
+              <item name="ditto" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="ditto" type="b2602c69:ProjectViewProjectNode" />
               <item name="ditto" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ditto" type="b2602c69:ProjectViewProjectNode" />
               <item name="ditto" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="META-INF" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ditto" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ditto" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="runtime" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ditto" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ditto" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="runtime" type="462c0819:PsiDirectoryNode" />
-              <item name="META-INF" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ditto" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ditto" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ditto" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ditto" type="462c0819:PsiDirectoryNode" />
+              <item name="out" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ditto" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ditto" type="462c0819:PsiDirectoryNode" />
+              <item name="out" type="462c0819:PsiDirectoryNode" />
+              <item name="production" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ditto" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ditto" type="462c0819:PsiDirectoryNode" />
+              <item name="out" type="462c0819:PsiDirectoryNode" />
+              <item name="production" type="462c0819:PsiDirectoryNode" />
+              <item name="ditto" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="ditto" type="b2602c69:ProjectViewProjectNode" />
@@ -227,7 +228,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="$PROJECT_DIR$/src/test" />
-    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
@@ -238,6 +239,8 @@
       <recent name="$PROJECT_DIR$" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/runtime" />
+      <recent name="$PROJECT_DIR$/src" />
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/tests" />
     </key>
@@ -383,54 +386,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/runtime/ArrayHashedMap.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-380">
-          <caret line="37" column="6" lean-forward="false" selection-start-line="37" selection-start-column="6" selection-end-line="37" selection-end-column="6" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/runtime/ComputationNode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-5208">
-          <caret line="38" column="13" lean-forward="false" selection-start-line="38" selection-start-column="13" selection-end-line="38" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/runtime/Dispatch.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="40" column="13" lean-forward="false" selection-start-line="40" selection-start-column="13" selection-end-line="40" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/runtime/FunctionData.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="33" column="22" lean-forward="false" selection-start-line="33" selection-start-column="22" selection-end-line="33" selection-end-column="22" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/runtime/IncObject.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="37" column="13" lean-forward="false" selection-start-line="37" selection-start-column="13" selection-end-line="37" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/runtime/InvariantData.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="33" column="13" lean-forward="false" selection-start-line="33" selection-start-column="13" selection-end-line="33" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/tests/test/IntHashSet.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -567,14 +522,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/ListElem.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="29" column="0" lean-forward="false" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$PROJECT_DIR$/lib/javassist.jar!/javassist/expr/MethodCall.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="151">
@@ -599,22 +546,155 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/runtime/META-INF/MANIFEST.MF">
+    <entry file="file://$PROJECT_DIR$/test/OrderedIntTree_isOrderedData.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#962#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/AssocList.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="55" column="35" lean-forward="false" selection-start-line="55" selection-start-column="35" selection-end-line="55" selection-end-column="35" />
+          <folding>
+            <element signature="e#0#8141#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/TreeMap.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#53123#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/out/production/ditto/runtime/ComputationNode.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="12" column="38" lean-forward="false" selection-start-line="12" selection-start-column="38" selection-end-line="12" selection-end-column="38" />
+          <folding>
+            <element signature="e#0#11173#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/TestDriver.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
-          <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <caret line="37" column="7" lean-forward="false" selection-start-line="37" selection-start-column="7" selection-end-line="37" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/ListElem.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="29" column="0" lean-forward="false" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/lib/javassist.jar!/javassist/expr/FieldAccess.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="146" column="0" lean-forward="false" selection-start-line="146" selection-start-column="0" selection-end-line="146" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/lib/javassist.jar!/javassist/expr/ExprEditor.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="113" column="0" lean-forward="false" selection-start-line="113" selection-start-column="0" selection-end-line="113" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/runtime/ArrayHashedMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="47" column="6" lean-forward="false" selection-start-line="47" selection-start-column="6" selection-end-line="47" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/runtime/Dispatch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-8">
+          <caret line="40" column="13" lean-forward="false" selection-start-line="40" selection-start-column="13" selection-end-line="40" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/runtime/FunctionData.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-8">
+          <caret line="33" column="22" lean-forward="false" selection-start-line="33" selection-start-column="22" selection-end-line="33" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/runtime/InvariantData.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="29" column="12" lean-forward="false" selection-start-line="29" selection-start-column="12" selection-end-line="29" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/runtime/MANIFEST.MF">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/incrementalizer/Transform.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3281">
-          <caret line="226" column="44" lean-forward="false" selection-start-line="226" selection-start-column="44" selection-end-line="226" selection-end-column="44" />
-          <folding>
-            <element signature="e#13053#13950#0" expanded="true" />
-            <element signature="e#13949#13950#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="408">
+          <caret line="81" column="8" lean-forward="false" selection-start-line="81" selection-start-column="8" selection-end-line="81" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/TreeMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-74">
+          <caret line="459" column="12" lean-forward="false" selection-start-line="459" selection-start-column="12" selection-end-line="459" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/AssocList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="46" column="4" lean-forward="false" selection-start-line="46" selection-start-column="4" selection-end-line="46" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/runtime/ComputationNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="60" column="5" lean-forward="false" selection-start-line="60" selection-start-column="5" selection-end-line="60" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/runtime/IncObject.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="40" column="1" lean-forward="false" selection-start-line="40" selection-start-column="1" selection-end-line="40" selection-end-column="1" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -682,6 +762,7 @@
             <option name="proportions">
               <list>
                 <option value="0.2" />
+                <option value="0.6" />
               </list>
             </option>
           </splitter-proportions>
